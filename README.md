@@ -4,6 +4,10 @@ This is fork of jOpenDocument project from http://www.jopendocument.org/
 
 ## Change list
 
+### 2.0.0
+#### Added
+- Requires Java 8
+
 ### 1.4 rc 3
 #### Added
 - OpenDocument v1.3
